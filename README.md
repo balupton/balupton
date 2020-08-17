@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently expanding [collaborative wisdom at Bevry](https://bevry.me).
-- 🌱 I’m currently learning [how to ship and grow a team](https://balupton.com/goodreads).
+- 🔭 I’m expanding [collaborative wisdom at Bevry](https://bevry.me).
+- 🌱 I’m learning [how to ship and grow a team](https://balupton.com/goodreads).
 - 👯 I’m looking to collaborate on the [Bevry Projects](https://bevry.me/projects).
 - 🤔 I’m looking for help with the [Bevry Schedule](https://bevry.me/schedule) and [becoming less stupid](https://bevry.me/meetings).
 - 💬 Ask me about [philosophy](https://bevry.me/youtube).
