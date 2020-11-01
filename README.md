@@ -2,8 +2,8 @@
 
 - 🔭 I’m expanding [collaborative wisdom at Bevry](https://bevry.me).
 - 🌱 I’m learning [how to ship and grow a team](https://balupton.com/goodreads).
-- 👯 I’m looking to collaborate on the [Bevry Projects](https://bevry.me/projects).
-- 🤔 I’m looking for help with the [Bevry Schedule](https://bevry.me/schedule) and [becoming less stupid](https://bevry.me/meetings).
+- 👯 I’m hoping to collaborate with you on the [Bevry Projects](https://bevry.me/projects).
+- 🤔 I’m asking [how to become less stupid](https://bevry.me/meetings).
 - 💸 If my work has benefited you, then please consider [sponsoring me](https://github.com/sponsors/balupton) as my open-source work is voluntary and paid only by my sponsors.
 - 📫 Reach out to me on [Twitter](https://balupton.com/twitter) and [Discord](https://bevry.me/discord).
 - 💬 Ask me about [philosophy](https://bevry.me/youtube).
