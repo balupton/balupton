@@ -1,1 +1,1 @@
-# [I can't wait any longer, I have commenced building my decentralised YouTube out of my own pocket to launch in the coming weeks, and need you to fund my efforts before I go homeless.](https://github.com/sponsors/balupton)
+# [I won't wait any longer, I have commenced building my decentralised YouTube out of my own pocket to launch in the coming weeks, and need you to fund my efforts before I go homeless.](https://github.com/sponsors/balupton)
