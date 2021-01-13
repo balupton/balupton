@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m expanding [collaborative wisdom at Bevry](https://bevry.me).
-- 🌱 I’m learning [how to ship and grow a team](https://balupton.com/goodreads).
-- 👯 I’m hoping to collaborate with you on the [Bevry Projects](https://bevry.me/projects).
-- 🤔 I’m asking [how to become less stupid](https://bevry.me/meetings).
-- 💸 If my work has benefited you, then please consider [sponsoring me](https://github.com/sponsors/balupton) as my open-source work is gratis and reimbursed only by my sponsors.
-- 📫 Reach out to me on [Discord](https://bevry.me/discord).
-- 💬 Ask me about [philosophy](https://bevry.me/youtube).
+- 🎥 [I'm building a decentralised YouTube and need you to fund it before I go homeless.](https://github.com/sponsors/balupton)
+- 🔭 [I founded Bevry to build a platform and community to accelerate collaborative wisdom.](https://bevry.me)
+- 🌱 [Watch our discussions.](https://bevry.me/youtube)
+- 📫 [Talk with us.](https://bevry.me/discord)
 - ⚡ Fun fact [I've hitchhiked over 10,000 KM around Australia and lived without money for 6 months.](https://gist.github.com/balupton/d08bbcdcf25cd38b135743e16050a1e9)
