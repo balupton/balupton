@@ -1,1 +1,11 @@
-# [I won't wait any longer, I have commenced building my decentralised YouTube out of my own pocket to launch in the coming weeks, and need you to fund my efforts before I go homeless.](https://github.com/sponsors/balupton)
+The projects I create get half a billion installs each month, yet earning-wise they are a sunken ship, so please fund my work so the ship goes afloat [before Sindre plagiarises more original work into his sponsorship cabal.](https://discuss.bevry.me/t/bevrys-software-boycotts/669?u=balupton)
+
+If I have ever done anything useful for you or your company, then now is the time to use [GitHub Sponsors](https://github.com/sponsors/balupton) or [other services](https://bevry.me/donate) to pay it back.
+
+[![Benjamin's Package Installation Statistics](https://github.com/balupton/balupton/blob/master/balupton-npm-stats.png?raw=true)](https://npm-stat.com/charts.html?author=balupton)
+
+[![Bevry's Package Installation Statistics](https://github.com/balupton/balupton/blob/master/bevryme-npm-stats.png?raw=true)](https://npm-stat.com/charts.html?author=bevryme)
+
+➡️ [What I an building out of my own wallet.](https://bevry.me/projects)
+
+➡️ [What I've accomplished out of my time.](https://balupton.com)
