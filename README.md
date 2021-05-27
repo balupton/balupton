@@ -4,6 +4,6 @@ If I have ever done anything useful for you or your company, then now is the tim
 
 [![Bevry's Package Installation Statistics](https://github.com/balupton/balupton/blob/master/bevryme-npm-stats.png?raw=true)](https://npm-stat.com/charts.html?author=bevryme)
 
-➡️ [What I am trying to build.](https://bevry.me/projects)
+➡️ [What I do.](https://bevry.me/projects)
 
-➡️ [What I have accomplished.](https://balupton.com)
+➡️ [What I've done.](https://balupton.com)
