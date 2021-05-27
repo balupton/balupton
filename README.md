@@ -1,4 +1,4 @@
-My work gets *half a billion installs each month*, yet earning-wise they are a sunken ship, so **please fund my work so the ship goes afloat** [before Sindre plagiarises more original work into his sponsorship cabal.](https://discuss.bevry.me/t/bevrys-software-boycotts/669?u=balupton)
+My work gets *half a billion installs each month*, yet earning-wise they are a sunken ship, so **please fund my work so the ship goes afloat** [before Sindre plagiarises more original work into his sponsorship cabal.](https://gist.github.com/balupton/3e6aaf3b59baceb7113b1b226213e8cc)
 
 If I have ever done anything useful for you or your company, then now is the time to pay it back.
 
