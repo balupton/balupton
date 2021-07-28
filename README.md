@@ -1,10 +1,12 @@
-My work gets *half a billion installs each month*, yet earning-wise they are a sunken ship, so **please fund my work so the ship goes afloat** [before Sindre plagiarises more original work into his sponsorship cabal.](https://gist.github.com/balupton/3e6aaf3b59baceb7113b1b226213e8cc)
+[I'm an old-school open-sourcer](https://balupton.com) who doesn't get paid to do open-source outside of the donations that I receive from people like you and companies like yours. I'm building my non-profit [Bevry](https://bevry.me) out of my own wallet and working each day to making it sustainable via donations and eventually larger open-source apps and services too.
 
-If I have ever done anything useful for you or your company, then now is the time to pay it back.
+My open-source work gets *half a billion installs each month* and are used by every big company — probably on your machine right now — yet all that I get back is what's here from the few awesome sponsors like you.
 
-➡️ [What projects I am trying to build.](https://bevry.me/projects)
+If I have saved you time as a user or saved you money as a company, then sponsoring affords me the time to add more value back to you.
 
 ➡️ [What projects I have built so far.](https://balupton.com/projects)
+
+➡️ [What projects I am trying to build.](https://bevry.me/projects)
 
 ➡️ Fund using [GitHub Sponsors](https://github.com/sponsors/balupton) or use [alternatives.](https://bevry.me/fund)
 
