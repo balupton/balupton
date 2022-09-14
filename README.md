@@ -1,4 +1,4 @@
-Benjamin furthers the commons under the monikers [balupton](https://balupton.com) and [bevry](https://github.com/bevry).
+Benjamin furthers the commons behind the monikers [balupton](https://balupton.com) and [bevry](https://github.com/bevry).
 
 🙇‍♂️ Fund using [GitHub Sponsors](https://github.com/sponsors/balupton) and [alternatives.](https://bevry.me/fund)
 
