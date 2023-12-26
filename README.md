@@ -1,4 +1,4 @@
-Benjamin furthers [the commons](https://en.wikipedia.org/wiki/Information_commons#Software_commons) and [the humanities](https://en.wikipedia.org/wiki/Humanities) using the monikers [balupton](https://github.com/balupton) and [bevry](https://github.com/bevry).
+Furthering [the commons](https://en.wikipedia.org/wiki/Information_commons#Software_commons) and [the humanities](https://en.wikipedia.org/wiki/Humanities) using the monikers [balupton](https://github.com/balupton) and [bevry](https://github.com/bevry).
 
 🙇‍♂️ Fund using [GitHub Sponsors](https://github.com/sponsors/balupton) and [alternatives.](https://bevry.me/fund)
 
